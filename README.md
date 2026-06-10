@@ -1,5 +1,6 @@
 # WhiteBox — Explainable TMB Prediction
 
+> **check out our results and findings**: [full research paper](https://github.com/DEVOLOPER-1/XAI-in-efficacy-of-immunotherapy/blob/main/research_paper/paper.pdf)
 > **Research pipeline for predicting Tumour Mutational Burden (TMB) from multimodal cancer data.**
 > This is the single source of truth for the codebase. Read it once, top-to-bottom, the first time you set up.
 
